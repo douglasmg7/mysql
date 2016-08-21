@@ -1,0 +1,4 @@
+#!usr/bin/env bash
+mysql -u root -h localhost -psaladino test
+desc pet;
+quit

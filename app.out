@@ -1,0 +1,25 @@
+connected
+[ RowDataPacket {
+    name: 'Puffball',
+    owner: 'Diane',
+    species: 'hamster',
+    sex: 'f',
+    birth: Tue Mar 30 1999 00:00:00 GMT-0300 (BRT) },
+  RowDataPacket {
+    name: 'Koque',
+    owner: 'Márcia',
+    species: 'cachorro',
+    sex: 'f',
+    birth: Fri Apr 28 2006 00:00:00 GMT-0300 (BRT) },
+  RowDataPacket {
+    name: 'Tug',
+    owner: 'Paulo',
+    species: 'gato',
+    sex: 'm',
+    birth: Mon Jan 25 2016 00:00:00 GMT-0200 (BRST) },
+  RowDataPacket {
+    name: 'Pirata',
+    owner: 'Felipe',
+    species: 'cachorro',
+    sex: 'm',
+    birth: Thu Mar 12 2015 00:00:00 GMT-0300 (BRT) } ]

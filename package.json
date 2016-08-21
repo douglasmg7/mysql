@@ -1,0 +1,9 @@
+{
+  "name": "mysql-test",
+  "version": "0.0.1",
+  "description": "just mysql test",
+  "dependencies": {
+    "mongodb": "^2.2.7",
+    "mysql": "latest"
+  }
+}

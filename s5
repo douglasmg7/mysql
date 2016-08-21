@@ -1,0 +1,6 @@
+#!/usr/bin/env bash
+mysql -u root -h localhost -psaladino << EOF
+use test;
+show tables;
+desc pet;
+EOF
